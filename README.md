@@ -1,2 +1,2 @@
 # Delta_demo
-this is practice of git &amp; github
+this is practice of git &amp; github.
